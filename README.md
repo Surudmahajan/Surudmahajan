@@ -30,7 +30,7 @@ An AI-powered chatbot designed to offer biomedical guidance using the OpenRouter
 ---
 
 ### 📊 Public Dataset API
-a lightweight and beginner-friendly project that shows how to build a fully functional API service using FastAPI.  
+A lightweight and beginner-friendly project that shows how to build a fully functional API service using FastAPI.  
 > ⚙️ Built with Python, SQLite, Jinja1, FAST API, supports JSON queries  
 > 📁 [Github repo](https://github.com/Surudmahajan/public-dataset-api)
 
