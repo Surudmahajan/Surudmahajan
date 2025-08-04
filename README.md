@@ -1,4 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Surud Mahajan
+
+A passionate self-taught developer and AI enthusiast, focused on building intelligent, real-world applications. I enjoy blending backend systems with smart interfaces and deploying scalable tools that make an impact.
+
+---
+## 🧠 About Me
+
+- 🔭 Currently exploring full-stack AI applications
+- 💡 Love converting ideas into deployable web tools
+- 🌐 Comfortable with Python, Flask, HTML, CSS, JavaScript, REST APIs, Git
+- 🤝 Always open to learning and collaboration
+
+---
+
+## 🚀 My Projects
+
+### 📘 Noteca
+A handwritten notes sharing platform for students preparing for PCM related competitive exams.  
+> 📎 [Visit Noteca](https://noteca.online/)
+
+
+---
+
+### 🧬 Biomedical Service Bot
+An AI-powered chatbot designed to offer biomedical guidance using the OpenRouter API and Flask.  
+> 🤖 Built using `mistral-7b` LLM  
+> 🌐 [Get a live demo](https://biomedicalservice-bot.onrender.com/)
+> 📁 [Github repo](https://github.com/Surudmahajan/biomedicalservice-bot)
+
+---
+
+### 📊 Public Dataset API
+a lightweight and beginner-friendly project that shows how to build a fully functional API service using FastAPI.  
+> ⚙️ Built with Python, SQLite, Jinja1, FAST API, supports JSON queries  
+> 📁 [Github repo](https://github.com/Surudmahajan/public-dataset-api)
+
+---
+
+## 📜 License
+
+© 2025 Surud Mahajan — All rights reserved.
+
 
 <!--
 **Surudmahajan/Surudmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
