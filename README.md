@@ -5,7 +5,7 @@ A passionate self-taught developer and AI enthusiast, focused on building intell
 ---
 ## 🧠 About Me
 
-- 🎓 I'm currently pursuing a **B.Tech in Electronics and Computer Science** at **SIES Graduate School of Technology**. 
+- 🎓 I'm currently pursuing **B.Tech in Electronics and Computer Science** at **SIES Graduate School of Technology**. 
 - 🔭 Constantly Exploring full-stack AI applications
 - 💡 Love converting ideas into deployable web tools
 - 🌐 Comfortable with Python, Flask, HTML, CSS, JavaScript, REST APIs, Git
