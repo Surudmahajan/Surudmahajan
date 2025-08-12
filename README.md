@@ -5,7 +5,8 @@ A passionate self-taught developer and AI enthusiast, focused on building intell
 ---
 ## 🧠 About Me
 
-- 🔭 Currently exploring full-stack AI applications
+- 🎓 I'm currently pursuing a **B.Tech in Electronics and Computer Science** at **SIES Graduate School of Technology**. 
+- 🔭 Constantly Exploring full-stack AI applications
 - 💡 Love converting ideas into deployable web tools
 - 🌐 Comfortable with Python, Flask, HTML, CSS, JavaScript, REST APIs, Git
 - 🤝 Always open to learning and collaboration
@@ -33,6 +34,13 @@ An AI-powered chatbot designed to offer biomedical guidance using the OpenRouter
 A lightweight and beginner-friendly project that shows how to build a fully functional API service using FastAPI.  
 > ⚙️ Built with Python, SQLite, Jinja1, FAST API, supports JSON queries  
 > 📁 [Github repo](https://github.com/Surudmahajan/public-dataset-api)
+
+---
+### 🏏 CricPredic
+A simple Flask-based web application that predicts the winning probabilities of cricket matches between two teams using historical performance data, and display's Live Cricket Scores  
+> ⚙️ Built with Python, Flask, Pandas, Matplotlib, Requests, Gunicorn, HTML, BootStrap, JS
+> 🌐 [Get a live demo](https://cricpredic.onrender.com/)
+> 📁 [Github repo](https://github.com/Surudmahajan/cricpredic)
 
 ---
 
