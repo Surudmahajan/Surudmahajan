@@ -38,7 +38,7 @@ A lightweight and beginner-friendly project that shows how to build a fully func
 ---
 ### 🏏 CricPredic
 A simple web application that predicts the winning probabilities of two teams using historical performance data, and display's Live Cricket Scores.
-> ⚙️ Built with Python, Flask, Pandas, Matplotlib, Requests, Gunicorn, HTML, BootStrap, JS
+> ⚙️ Built with Python, Flask, Pandas, Matplotlib, BootStrap
 > 🌐 [Get a live demo](https://cricpredic.onrender.com/)
 > 📁 [Github repo](https://github.com/Surudmahajan/cricpredic)
 
